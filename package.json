@@ -1,0 +1,14 @@
+{
+  "name": "sheetsApi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "googleapis": "39",
+    "json-2-csv": "^3.7.0",
+    "nodemon": "^2.0.4",
+    "promise": "^8.1.0",
+    "trello": "^0.10.0"
+  }
+}
